@@ -1,1 +1,1 @@
-These are my notes.
+My notes for Git assignment
