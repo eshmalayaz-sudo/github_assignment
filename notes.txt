@@ -1,2 +1,3 @@
 My notes for Git assignment
 This edit is from the cloned repo.
+"Edited in the cloned folder"
